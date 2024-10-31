@@ -8,6 +8,10 @@
     font-family: "Poppins", sans-serif;
 }
 
+body {
+    background-color:#747073
+}
+
 header {
     margin-top: 46px;
     margin-left: 43px;
@@ -24,11 +28,12 @@ header {
     color: #17233D;
     margin-right: 32px;
     cursor: pointer;
+   
 }
 
 .button-sign-up {
-    background: #6FBF44;
-    border: 1px solid #4CB538;
+    background: #474747;
+    border: 1px solid #ffffff;
     border-radius: 6px;
     width: 124px;
     height: 51px;
@@ -38,6 +43,8 @@ header {
     line-height: 24px;
     letter-spacing: 1px;
     color: #FFFFFF;
+
+
 }
 
 img {
@@ -65,7 +72,7 @@ p {
     font-size: 18px;
     line-height: 33px;
     letter-spacing: 0.5px;
-    color: #4B505A;
+    color: #FFFFFF;
     margin-top: 47px;
     margin-bottom: 55px;
 }
@@ -113,6 +120,7 @@ p {
 
     .button-sign-up {
         position: left;
+        margin-right: 20px;
 
     }
 
